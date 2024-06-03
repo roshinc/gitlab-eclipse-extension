@@ -1,0 +1,10 @@
+/*
+ * Any styles in here will be applied to all pages that match the pattern in the manifest. Typically, you
+ * will need to use `!important` to override styles on other web pages.
+ *
+ * This particular template modifies the background color
+ */
+
+body {
+  /* background: #0040ff !important; */
+}
